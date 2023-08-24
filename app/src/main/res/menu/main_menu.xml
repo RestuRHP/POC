@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/video"
+        android:title="@string/video" />
+
+    <item
+        android:id="@+id/place_list"
+        android:title="@string/menu_place_list" />
+
+</menu>

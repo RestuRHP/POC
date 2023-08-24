@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">POC Mobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="uplado">uplado</string>
+    <string name="share">Share</string>
+    <string name="menu_place_list">Share Place List</string>
+    <string name="share_screenshot">Share Screenshot</string>
+    <string name="bakmi_enak_karawang">Bakmi Enak Karawang</string>
+    <string name="kumpulan_bakmi_terenak_di_karawang">Kumpulan Bakmi Terenak di Karawang</string>
+    <string name="john_doe">John Doe</string>
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="_4_5">4.5</string>
+    <string name="_5_places">5 places</string>
+    <string name="_60_shares">60 shares</string>
+    <string name="_99_likes">99 likes</string>
+    <string name="video">Video</string>
+</resources>
