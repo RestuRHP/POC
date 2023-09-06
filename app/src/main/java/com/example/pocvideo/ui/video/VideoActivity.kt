@@ -15,8 +15,8 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.viewpager2.widget.ViewPager2
 import com.example.pocvideo.R
 import com.example.pocvideo.api.ApiService
-import com.example.pocvideo.model.upload_video.UploadResponse
-import com.example.pocvideo.model.videos_response.VideosResponse
+import com.example.pocvideo.model.video.UploadResponse
+import com.example.pocvideo.model.video.VideosResponse
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.progressindicator.LinearProgressIndicator
 import okhttp3.MediaType.Companion.toMediaTypeOrNull

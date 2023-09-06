@@ -1,4 +1,4 @@
-package com.example.pocvideo.model.videos_response
+package com.example.pocvideo.model.video
 
 
 import com.google.gson.annotations.SerializedName
@@ -10,8 +10,6 @@ data class Video(
     var filePath: String,
     @SerializedName("id")
     var id: Int,
-    @SerializedName("title")
-    var title: String,
     @SerializedName("updated_at")
     var updatedAt: String
 )

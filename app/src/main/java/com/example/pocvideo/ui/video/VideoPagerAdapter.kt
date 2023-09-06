@@ -3,7 +3,7 @@ package com.example.pocvideo.ui.video
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.pocvideo.model.videos_response.Video
+import com.example.pocvideo.model.video.Video
 
 class VideoPagerAdapter(fragmentActivity: FragmentActivity) : FragmentStateAdapter(fragmentActivity) {
     private var videoList: List<Video> = emptyList()
