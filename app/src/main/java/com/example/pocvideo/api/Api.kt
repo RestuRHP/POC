@@ -1,7 +1,7 @@
 package com.example.pocvideo.api
 
-import com.example.pocvideo.model.upload_video.UploadResponse
-import com.example.pocvideo.model.videos_response.VideosResponse
+import com.example.pocvideo.model.video.UploadResponse
+import com.example.pocvideo.model.video.VideosResponse
 import com.example.pocvideo.model.youtube.GetYoutubeIdResponse
 import okhttp3.RequestBody
 import retrofit2.Call
