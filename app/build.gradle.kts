@@ -57,9 +57,10 @@ dependencies {
     implementation ("de.hdodenhof:circleimageview:3.1.0")
 
     implementation ("com.github.bumptech.glide:glide:4.12.0")
+    implementation(project(mapOf("path" to ":poc")))
     annotationProcessor ("com.github.bumptech.glide:compiler:4.12.0")
 
-
+//    implementation ("com.github.RestuRHP:POC:0.0.1-alpha")
 
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
